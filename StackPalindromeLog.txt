@@ -1,0 +1,1 @@
+kayakPalindrome not foundsimplePalindrome foundcivicPalindrome not foundlevelPalindrome not foundMonmouthPalindrome foundbeachPalindrome found
